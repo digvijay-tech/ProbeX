@@ -1,0 +1,6 @@
+bin/
+*.log
+*.tmp
+
+# Misc
+TODO
